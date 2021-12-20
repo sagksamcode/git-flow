@@ -68,6 +68,6 @@ Se tudo correu bem, sua tag será criada e estamos aptos a fazer o merge com a m
 
 $ git checkout master && git merge release/v1.0.1
 
-XABLAU
+PRONTO!!
 
 Prontinho, desta forma, obtemos informações de todas as etapas do desenvolvimento, além de padronizar a nomenclatura das branchs facilitando na hora de puxar um log maroto.
