@@ -9,6 +9,7 @@ E se você é novo com git, este fluxo irá te ajudar a ter maior familiaridade 
 Nessas horas é suma importância que se tenha total controle do que está sendo produzido por sua equipe, onde, ao mesmo tempo são corrigidos falhas, implementado novas funcionalidades e ter o seu código de produção com total funcionamento entregue ao seu cliente.
 
 É ai que o fluxo de git flow nos ajuda, vem com o cabrito olhar a imagem abaixo para entender melhor:
+
 Git Flow Model Nvie
 
 A master irá contér todo código já testado, versionado que será entregue ao cliente e a develop é onde todo fluxo de trabalho irá ocorrer antes de fazer o release versionado que será feito merge na master.
